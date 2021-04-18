@@ -8,7 +8,7 @@
 }
 
 img {
-    width: 25%;
+    width: 20%;
 }
 
 .container {
@@ -25,9 +25,9 @@ img {
 }
 @keyframes move {
     0% {left: 0%}
-    25% {left: 20%}
-    50% {left: 30%}
-    75% {left: 20%}
+    25% {left: 10%}
+    50% {left: 20%}
+    75% {left: 10%}
     95% {left: 0.1%}
     }
 
